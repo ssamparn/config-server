@@ -71,5 +71,6 @@ The key's randomart image is:
 - https://boottechnologies-ci.medium.com/spring-cloud-config-and-git-ssh-configuration-70ab570bcf4f
 - https://stackoverflow.com/questions/71378525/spring-cloud-config-throws-invalid-private-key-error
 - https://stackoverflow.com/questions/71489256/spring-cloud-config-server-github-sha-1-error
+- https://stackoverflow.com/questions/71498990/cannot-resolve-swift-packages-after-15th-march-2022-in-xcode/71498991#71498991
 
 

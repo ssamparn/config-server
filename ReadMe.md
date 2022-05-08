@@ -37,7 +37,7 @@ Get the hostKey:
 $ ssh-keyscan -t ecdsa github.com
 ```
 ```bash
-$ ssh-keygen -t ecdsa -b 256 -C "sashank1703@gmail.com"
+$ ssh-keygen -t ecdsa -b 521 -C "sashank1703@gmail.com"
 ```
 > Generating public/private ecdsa key pair.
 > Enter file in which to save the key (/Users/sashankasamantray/.ssh/id_ecdsa): github-ssh-ecdsa
@@ -71,6 +71,5 @@ The key's randomart image is:
 - https://boottechnologies-ci.medium.com/spring-cloud-config-and-git-ssh-configuration-70ab570bcf4f
 - https://stackoverflow.com/questions/71378525/spring-cloud-config-throws-invalid-private-key-error
 - https://stackoverflow.com/questions/71489256/spring-cloud-config-server-github-sha-1-error
-- 
 
 

@@ -66,7 +66,7 @@ The key's randomart image is:
 |    += o.      ..|
 +----[SHA256]-----+
 ```
-####References:
+#### References:
 - https://www.youtube.com/watch?v=Zbijm8wJTTE
 - https://boottechnologies-ci.medium.com/spring-cloud-config-and-git-ssh-configuration-70ab570bcf4f
 - https://stackoverflow.com/questions/71378525/spring-cloud-config-throws-invalid-private-key-error
